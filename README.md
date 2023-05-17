@@ -1,6 +1,6 @@
 # Just a Read Me
 the root dir should have a file structure like:
-root
+root\n
 |--data
 |   |--test
 |   |   |--images
