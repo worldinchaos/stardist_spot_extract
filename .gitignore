@@ -1,0 +1,11 @@
+data/ctx_dapi/test/images/DAPI_tile_2048.tif
+data/ctx_dapi/test/images/HP_0_DAPI_TILE_0512.tif
+data/ctx_dapi/test/images/HP_CA3_100um_DAPI.tif
+data/ctx_dapi/test/images/HP_CA3_DAPI_TILE_80um.tif
+data/ctx_dapi/test/images/HT_100um_DAPI.tif
+data/ctx_dapi/test/images/hy_true_75um_dap_2048.tif
+data/ctx_dapi/test/images/TH_100um_DAPI.tif
+data/ctx_dapi/test/images/Where_100um_DAPI.tif
+data/ctx_dapi/test/results/HP_0_DAPI_TILE_0512_centroid.tif
+data/ctx_dapi/test/results/HP_0_DAPI_TILE_0512_predict.tif
+data/ctx_dapi/test/results/HP_0_DAPI_TILE_0512_predict.txt
